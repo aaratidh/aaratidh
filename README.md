@@ -34,5 +34,5 @@ Besides my keen interest in machine learning, I am also interested in Scraping a
 <!-- BLOG-POST-LIST:END -->
  
  
- <!---img src="https://visitor-badge.glitch.me/badge?page_id=aaratidh.aaratidh" alt="Visitors Counter">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=aaratidh.aaratidh" alt="Visitors Counter">
  
