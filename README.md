@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hey 👋🏽, I'm [Aarati Dhungel!](https://aaratidhungel.com.np) 
  
 <p>
