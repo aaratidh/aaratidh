@@ -9,7 +9,7 @@
 <div style="text-align: justify">
  
  
-I'm  a Computer Engineer 🚀 currently, I'm working as an #### 👨🏽‍💻.
+I'm  a Computer Engineer👨🏽‍💻.
  
 I have been familiar with Machine Learning and Data Science since my fifth semester. But it was seven semesters when I dove deep into them. I was researching for my major project. I came across many videos like that of Andrew Ng. I enjoyed the depth of Machine Learning and Data Science. Inspired by Mr. Andrew Ng, I used the concept of Linear and Logistic regression to predict the weather in Kathmandu for four days. The min-max temperature predicted had 80 % accuracy. I collected data from the Department of Hydrology and Meteorology. It was a thrilling experience to deal with such a huge dataset. I used this data to train and test the model.  I learned to deal with unclean data. It was fascinating to use the concept of data science. I enjoyed working on this project. 
 
