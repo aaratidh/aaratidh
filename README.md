@@ -22,15 +22,5 @@ Besides my keen interest in machine learning, I am also interested in Scraping a
 ![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=aaratidh&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/aaratidh">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaratidh&layout=compact&theme=dark)](https://github.com/aaratidh)</a>
  
  
- 
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Mathematical Explaination of K-Modes Clustering ](https://aihubprojects.com/k-modes-clustering-algorithm-mathematical-scratch-implementation/)
-- [K-Means Scratch Implemrntation Python](https://aihubprojects.com/k-means-clustering-from-scratch-python/)
-- [Visualizing & Prediction Corona cases](https://aihubprojects.com/visualizing-predicting-corona-cases/)
-- [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/)
-<!-- BLOG-POST-LIST:END -->
- 
- 
  <img src="https://visitor-badge.glitch.me/badge?page_id=aaratidh.aaratidh" alt="Visitors Counter">
  
