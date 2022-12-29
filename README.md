@@ -12,7 +12,7 @@ I'm a Graduate computer science student at University of South Dakota.
 </p>
  
 <p>
- I am a really enthusiastic and passionate girl who was born and nurtured in a small hamlet in Nepal. I completed my undergraduate degree in computer engineering from Tribhuvan University in Nepal. Currently, I am a graduate computer science student at the University of South Dakota. My primary interests are machine learning, congnetive learning (Brain signal processing), and data science. I learned about machine learning and data science through my undergraduate degree. I am so fascinated by the underlying statistics and math behind machine learning. Optimization has always been the subject of my passion.
+I am a really enthusiastic and passionate girl who was born and nurtured in a small hamlet in Nepal. I completed my undergraduate degree in computer engineering from Tribhuvan University in Nepal. Currently, I am a graduate computer science student at the University of South Dakota. My primary interests are machine learning, congentive learning, biological signal processing, and data science. I learned about machine learning and data science through my undergraduate degree. I am so fascinated by the underlying statistics and math behind machine learning. Optimization has always been the subject of my passion.
  
 </p>
 
