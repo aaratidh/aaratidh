@@ -4,7 +4,6 @@
 <p>
 I'm a Graduate computer science student at University of South Dakota. 
 <ul> 
-<li>Graduate research assistant at USD campus</li>
 <li>Data Science Intern at GIIS </li>
 <li>Machine Learning Intern for NCIT </li>
 <li>Content Writer at Asterisk digital</li>
