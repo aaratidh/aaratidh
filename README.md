@@ -20,5 +20,5 @@ I am a enthusiastic and passionate girl who was born and nurtured in a small ham
 </div>
 
 [Download Resume](https://dhungelaarati.com.np/)  
-<img src="https://visitor-badge.glitch.me/badge?page_id=aaratidh.aaratidh" alt="Visitors Counter">
+
  
