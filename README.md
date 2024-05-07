@@ -18,6 +18,6 @@ I am a enthusiastic and passionate girl who was born and nurtured in a small ham
  
 </div>
 
-[Download Resume](https://dhungelaarati.com.np/)  
+[Download Resume]
 
  
