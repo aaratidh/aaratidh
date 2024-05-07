@@ -4,9 +4,9 @@
 <p>
 I'm a Graduate computer science student at University of South Dakota. 
 <ul> 
-<li>Data Science Intern at GIIS </li>
-<li>Machine Learning Intern for NCIT </li>
-<li>Content Writer at Asterisk digital</li>
+<li>Data Science Associate at GIIS </li>
+<li>Siyas llc </li>
+<li>Azure Data Engineer Associate:</li>
 </ul>
 </p>
  
