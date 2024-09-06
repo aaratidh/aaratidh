@@ -4,9 +4,8 @@
 <p>
 I'm a Graduate computer science student at University of South Dakota. 
 <ul> 
-<li>Data Science Associate at GIIS </li>
-<li>Siyas llc </li>
-<li>Azure Data Engineer Associate:</li>
+<li>Data Engineer</li>
+<li> Data Engineer Associate:</li>
 </ul>
 </p>
  
